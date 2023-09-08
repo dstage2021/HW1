@@ -4,7 +4,7 @@ Submitted by: Dawson Stage
 
 Bruce or Batman? is an app that introduces Bruce Wayne, his life, and his secret.
 
-Time spent: **X** hours spent in total
+Time spent: 19 hours spent in total
 
 ## Required Features
 
@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+https://youtu.be/zdv1p2HPC4g
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
